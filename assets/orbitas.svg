@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 1296">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 39.8px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-4 {
+        font-family: MicrosoftSansSerif, 'Microsoft Sans Serif';
+      }
+
+      .cls-2 {
+        font-family: HelveticaLTStd-Fractions, 'Helvetica LT Std';
+        font-size: 26.22px;
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-3, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #1c45d0;
+      }
+
+      .cls-9 {
+        fill: #42a5e3;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-width: 3px;
+      }
+
+      .cls-10 {
+        fill: #1c0ad0;
+      }
+
+      .cls-11 {
+        fill: #1c8cd0;
+      }
+
+      .cls-12 {
+        fill: #1c75d0;
+      }
+
+      .cls-4 {
+        font-size: 25px;
+      }
+
+      .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-13 {
+        fill: #b5e3ff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect width="1728" height="1296"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="undefined_-_Vostok_6" data-name="undefined - Vostok 6" class="cls-10" x="197.29" y="1007.27" width="766.43" height="179.66"/>
+    <rect id="undefined_-_Vostok_5" data-name="undefined - Vostok 5" class="cls-8" x="197.29" y="827.29" width="1357.22" height="179.66"/>
+    <rect id="undefined_-_Vostok_4" data-name="undefined - Vostok 4" class="cls-12" x="197.29" y="647.31" width="766.43" height="179.66"/>
+    <rect id="undefined_-_Vostok_3" data-name="undefined - Vostok 3" class="cls-11" x="197.29" y="467.33" width="1021.9" height="179.66"/>
+    <rect id="undefined_-_Vostok_2" data-name="undefined - Vostok 2" class="cls-9" x="197.29" y="287.35" width="271.44" height="179.66"/>
+    <rect id="undefined_-_Vostok_1" data-name="undefined - Vostok 1" class="cls-13" x="197.29" y="107.37" width="15.97" height="179.66"/>
+    <path class="cls-6" d="M197.29,1198.82v-11.57H1634.34v11.57"/>
+    <text class="cls-2" transform="translate(191.44 1230.87) scale(.73 1)"><tspan x="0" y="0">0</tspan></text>
+    <g>
+      <line class="cls-5" x1="356.76" y1="1188.51" x2="356.76" y2="1204.32"/>
+      <text class="cls-2" transform="translate(345.95 1230.87) scale(.73 1)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="516.65" y1="1188.51" x2="516.65" y2="1204.32"/>
+      <text class="cls-2" transform="translate(505.85 1230.87) scale(.73 1)"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="676.53" y1="1188.51" x2="676.53" y2="1204.32"/>
+      <text class="cls-2" transform="translate(665.74 1230.87) scale(.73 1)"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="836.42" y1="1188.51" x2="836.42" y2="1204.32"/>
+      <text class="cls-2" transform="translate(825.62 1230.87) scale(.73 1)"><tspan x="0" y="0">40</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="996.31" y1="1188.51" x2="996.31" y2="1204.32"/>
+      <text class="cls-2" transform="translate(985.51 1230.87) scale(.73 1)"><tspan x="0" y="0">50</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="1156.2" y1="1188.51" x2="1156.2" y2="1204.32"/>
+      <text class="cls-2" transform="translate(1145.39 1230.87) scale(.73 1)"><tspan x="0" y="0">60</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="1316.09" y1="1188.51" x2="1316.09" y2="1204.32"/>
+      <text class="cls-2" transform="translate(1305.29 1230.87) scale(.73 1)"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="1475.98" y1="1188.51" x2="1475.98" y2="1204.32"/>
+      <text class="cls-2" transform="translate(1465.17 1230.87) scale(.73 1)"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <text class="cls-2" transform="translate(1625.06 1230.87) scale(.73 1)"><tspan x="0" y="0">90</tspan></text>
+    <path class="cls-3" d="M197.29,107.05V1187.25"/>
+    <g>
+      <line class="cls-5" x1="197.29" y1="204.53" x2="176.77" y2="204.53"/>
+      <text class="cls-4" transform="translate(52.07 215.89)"><tspan x="0" y="0">Vostok 1</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="197.29" y1="384.5" x2="176.77" y2="384.5"/>
+      <text class="cls-4" transform="translate(52.06 395.87)"><tspan x="0" y="0">Vostok 2</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="197.29" y1="564.49" x2="176.77" y2="564.49"/>
+      <text class="cls-4" transform="translate(52.06 575.84)"><tspan x="0" y="0">Vostok 3</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="192.32" y1="754.77" x2="171.79" y2="754.77"/>
+      <text class="cls-4" transform="translate(47.1 766.13)"><tspan x="0" y="0">Vostok 4</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="192.32" y1="912.76" x2="171.79" y2="912.76"/>
+      <text class="cls-4" transform="translate(47.1 924.11)"><tspan x="0" y="0">Vostok 5</tspan></text>
+    </g>
+    <g>
+      <line class="cls-5" x1="192.47" y1="1115.06" x2="171.94" y2="1115.06"/>
+      <text class="cls-4" transform="translate(47.25 1126.42)"><tspan x="0" y="0">Vostok 6</tspan></text>
+    </g>
+    <g id="_Group_" data-name="&amp;lt;Group&amp;gt;">
+      <line class="cls-7" x1="192.32" y1="1092.55" x2="171.85" y2="1092.55"/>
+    </g>
+  </g>
+  <text class="cls-1" transform="translate(132.79 66.59)"><tspan x="0" y="0">Misiones</tspan></text>
+  <text class="cls-1" transform="translate(1554.51 1163.94)"><tspan x="0" y="0">Órbitas</tspan></text>
+</svg>
