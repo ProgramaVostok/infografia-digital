@@ -1,1 +1,1 @@
-# infograf-a-digital
+# infografia-digital
